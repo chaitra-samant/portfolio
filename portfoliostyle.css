@@ -10,7 +10,7 @@ footer{
     text-align:center;
 }
 header{
-    background-color:#89343e;
+    background-color:#4a171e;
 }
 
 #header {
@@ -34,17 +34,18 @@ i{
     gap: 10px;
 }
 .link {
-    background: #89343e;
+    background: #4a171e;
     color: #FCF5ED;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
     margin-bottom: 20px;
+    margin-top: 1rem;
   }
 .table{
    background-color: #89343e;
    color:#FCF5ED;
-    
+   height: 30%;
 }
 span{
     width:30%;
@@ -82,6 +83,6 @@ span{
   }
   img{
     border-radius: 50%;
-   
+   margin-top: 20px;
   }
   
