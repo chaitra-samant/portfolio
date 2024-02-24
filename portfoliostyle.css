@@ -1,0 +1,87 @@
+body{
+    background-color:#FCF5ED;
+    color:#89343e;
+    margin:0px;
+    font-family:"kode mono";
+    
+}
+footer{
+    
+    text-align:center;
+}
+header{
+    background-color:#89343e;
+}
+
+#header {
+    font-weight:bold ;
+    font-size:100px;
+    text-align: center;
+    }
+i{
+    color:#FCF5ED;
+}
+.end{
+    background-color:#89343e;
+    color:#FCF5ED;
+    text-align:center;
+    margin:0;
+    padding:20px;
+}
+.container{
+    display:flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.link {
+    background: #89343e;
+    color: #FCF5ED;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 20px;
+  }
+.table{
+   background-color: #89343e;
+   color:#FCF5ED;
+    
+}
+span{
+    width:30%;
+    display:inline-block;
+}
+
+  
+.inner{
+    width:100%;
+    background-color:#FCF5ED;
+    text-align: center;
+    margin:0;
+    padding:0px;
+
+  }
+  .h2{
+    text-align: center;
+    font-size: 40px;
+  }
+  .card {
+    background: #85586F;
+    color:#FCF5ED;
+    border-radius: 2px;
+    display: inline-block;
+    height:200px;
+    vertical-align: middle;
+    margin: 1rem;
+    position:relative;
+    width: 30%;
+  }
+  .outer{
+    background-color: #AC7D88;
+    margin:0;
+    padding:20px;
+  }
+  img{
+    border-radius: 50%;
+   
+  }
+  
